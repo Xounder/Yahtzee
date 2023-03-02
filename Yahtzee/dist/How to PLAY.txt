@@ -1,0 +1,47 @@
+#PT/BR
+Aperte no botão ROLL para rodar os dados
+Caso deseje ficar com algum dado aperte nele (ficará vermelho), ao rodar novamente ele não mudará de valor
+
+Valores da Tabela:
+	Ones: quantidade de *1* nos dados
+	Twos: quantidade de *2* nos dados
+	Trees: quantidade de *3* nos dados
+	Fours: quantidade de *4* nos dados
+	Fives: quantidade de *5* nos dados
+	Six: quantidade de *6* nos dados
+	Sum: soma de todos os valores acima
+	Bonus: caso a Sum for maior que 65 ganha + 20 pontos
+	Tree of a Kind: 3 dados iguais
+	Four of a Kind: 4 dados iguais
+	Full House: 3 dados iguais --- 2 dados iguais (ex: 5, 5, 5, 2, 2) 
+	Small Straight: Sequências (Ex.: X, 1, 2, 3, 4 - X, 2, 3, 4, 5 - X, 3, 4, 5, 6)
+	Large Straight: Sequências (Ex.: 1, 2, 3, 4, 5 - 2, 3, 4, 5, 6)
+	Chance: Soma dos dados
+	Yathzee: 5 dados iguais
+	Total: Soma de todos os valores da tabela
+
+Ganha quem tiver o maior valor Total
+ 
+#ENGLISH
+Press the ROLL button to rotate the dice
+If you want to keep some dice, press it (it will turn red), when you roll again it will not change its value
+
+Table Values:
+	Ones: amount of *1* in the dice
+	Twos: amount of *2* in the dice
+	Trees: amount of *3* in the data
+	Fours: amount of *4* in the dice
+	Fives: amount of *5* in the dice
+	Six: amount of *6* in the data
+	Sum: sum of all values ​​above
+	Bonus: if Sum is greater than 62, you get +35 points
+	Tree of a Kind: 3 of the same dice
+	Four of a Kind: 4 of the same dice
+	Full House: 3 of the same dice --- 2 of the same dice (ex: 5, 5, 5, 2, 2)
+	Small Straight: Sequences (Ex.: X, 1, 2, 3, 4 - X, 2, 3, 4, 5 - X, 3, 4, 5, 6)
+	Large Straight: Sequences (Ex.: 1, 2, 3, 4, 5 - 2, 3, 4, 5, 6)
+	Chance: Sum of the dice
+	Yathzee: 5 equal dice
+	Total: Sum of all table values
+
+Whoever has the highest total value wins.
